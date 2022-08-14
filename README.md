@@ -15,11 +15,17 @@ The GPU enabled program autostem_cuda can be much faster but the windows executa
 [27] 14-aug-2022 add COM detector to STEM
 
 [26] 26-dec-2021, 5-feb-2022 small updates to python 3.8, numba in MTFgraphing
+
 [25] 10-sep-2021 add win10 version of autostem_cuda (GPU)
+
 [24] 23-jul-2021 small fixes and add autoslic animation
+
 [23] 16-nov-2020 add juliaMTFgraphing and EMprograms.html
+
 [22] 6-oct-2019 variety of small bug fixes
+
 [21] 7-oct-2018 add autostem_cuda (GPU, linux cmd line only)
+
 [20] 21-may-2018 add segmented detector in STEM (cmd line only)
 
 
