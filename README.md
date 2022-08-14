@@ -9,7 +9,6 @@ All code is AS-IS with ABSOLUTELY NO WARRANTY OR GUARANTEE of any kind to the ex
 ## GPU/cuda code
 
 The GPU enabled program autostem_cuda can be much faster but the windows executable requires the cuda library cufft64_10.dll, which is a large file. github does not easily allow large files to be uploaded, so this dll cannot be easily included here and must be obtained separately (perhaps from NVIDIA), if you wish to run this program.
-.
 
 ## release notes 
 
