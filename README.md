@@ -12,6 +12,8 @@ The GPU enabled program autostem_cuda can be much faster but the windows executa
 
 ## release notes 
 
+[29] 4-sep-2023 fix error with empty layers in autostem_cuda 
+
 [28] 16-jul-2023 small updates for GPU/CUDA v.12.2
 
 [27] 14-aug-2022 add COM detector to STEM
