@@ -37,12 +37,3 @@ The GPU enabled program autostem_cuda can be much faster but the windows executa
 [21] 7-oct-2018 add autostem_cuda (GPU, linux cmd line only)
 
 [20] 21-may-2018 add segmented detector in STEM (cmd line only)
-
-
-
-
-
-updated online to above on Sat. 11-sep-2021 2:50PM  ejk
-updated again 10-mar-2022 ejk
-updated online 14-aug-2022 ejk
-updated online 16-jul-2023 ejk
