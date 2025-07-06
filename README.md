@@ -12,6 +12,8 @@ The GPU enabled program autostem_cuda can be much faster but the windows executa
 
 ## release notes 
 
+[32] 6-jul-2025 add excutable for Mac OS for M4 CPU 
+
 [31] 8-aug-2024 better random number generator (RNG)
 
 [30] 25-jun-2024 more anti-aliasing, more GPU code including autoslic_cuda
@@ -38,3 +40,9 @@ The GPU enabled program autostem_cuda can be much faster but the windows executa
 
 
 
+
+
+updated online to above on Sat. 11-sep-2021 2:50PM  ejk
+updated again 10-mar-2022 ejk
+updated online 14-aug-2022 ejk
+updated online 16-jul-2023 ejk
