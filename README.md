@@ -12,6 +12,8 @@ The GPU enabled program autostem_cuda can be much faster but the windows executa
 
 ## release notes 
 
+[33] 17-may-2026 convert to faster FFT for mac
+
 [32] 6-jul-2025 add excutable for Mac OS for M4 CPU 
 
 [31] 8-aug-2024 better random number generator (RNG)
